@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

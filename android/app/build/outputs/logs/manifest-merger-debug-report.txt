@@ -1,0 +1,473 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:react-native-android-sms-listener] /home/user/Desktop/Project/ZULApp/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:RNMail] /home/user/Desktop/Project/ZULApp/node_modules/react-native-mail/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /home/user/Desktop/Project/ZULApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-bottom-action-sheet] /home/user/Desktop/Project/ZULApp/node_modules/react-native-bottom-action-sheet/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-wheel-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-wheel-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /home/user/Desktop/Project/ZULApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-base64] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-base64/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-i18n] /home/user/Desktop/Project/ZULApp/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /home/user/Desktop/Project/ZULApp/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/user/Desktop/Project/ZULApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-touch-id] /home/user/Desktop/Project/ZULApp/node_modules/react-native-touch-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-linear-gradient] /home/user/Desktop/Project/ZULApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e58a68e9d197ceab92c9adb4b2796c79/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f2e9a18ca627431fdba6c21ec5ebc812/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:21:1-37:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:2:1-32:12
+MERGED from [com.github.rubensousa:bottomsheetbuilder:1.6.1] /home/user/.gradle/caches/transforms-1/files-1.1/bottomsheetbuilder-1.6.1.aar/262fd1cf83c36144f91435ca4c73fd91/AndroidManifest.xml:2:1-11:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /home/user/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.0.3.aar/423520672c6164d3b0a75b767858ddf2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:17:1-39:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/9a54b54e6e6e56ff0a096c289b55e1f2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/3e2ae632a8df3444918f6c3642096b00/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/3bce80ecc9af59897996abaea3c6c984/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:21:1-53:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/bdedf193c14fb81a3b9274c0c5dbf4f5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/de027b0e404ac6480b9704f8b554081d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/0aefe6a7e0bc5d7b143893829686eedf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/caf480195ce87d488692bccb3dd1cbd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/31996597dd8a94ace43092975ad813b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e080a65334b8a429566b019768484dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/4ee230d8bf4b067a94e7b9e9ff251352/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/3f29a3b32a7ea8e4ac78a808ee62b4ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1d7f40ea96352ae9c25287b689a6237/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/274376adb2f5e40b869c1ba65a254784/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b046fba4e4a122545cc938ed78c6b50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2063c366e3f81417b5526dc8b68be674/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/12f67c1675a5c6ffb5662281dfbe3489/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fac4146b844776d382c601a1d23c8aac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e23f754256a13d15612a81dda38e350/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/4ea8aa23335b733287e8c59102eadbe7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5ad7bad9dc29f2aee39263c9de92dc2e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/160397ab82b3cd5708dacaaaae21d938/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d42765571a2e8927932c87caf5c42c26/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ae5e02bdae216266eeee0e4727437d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1a67cc8591c2c4aab399c4f2bbe9e1da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5be0d9a1291fecdb8ef0f6630044dd7c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef80b06f0e916050789f0d0802fec25a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af121cecb4d9a5fa2d8df546e6bdf1e6/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a589559afb8041869c8d2ed8f1bd355b/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/172ef6344376cede31bb51d50d0315ec/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a11a4a94feff800adda909135ddeba7b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a6475f56971fabeab46881ec096301ab/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [:react-native-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-78
+MERGED from [:react-native-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:6:5-74
+MERGED from [:react-native-touch-id] /home/user/Desktop/Project/ZULApp/node_modules/react-native-touch-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-touch-id] /home/user/Desktop/Project/ZULApp/node_modules/react-native-touch-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.CAMERA
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:9:5-70
+MERGED from [:react-native-android-sms-listener] /home/user/Desktop/Project/ZULApp/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-70
+MERGED from [:react-native-android-sms-listener] /home/user/Desktop/Project/ZULApp/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:9:22-67
+application
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:12:5-36:19
+MERGED from [:react-native-fbsdk] /home/user/Desktop/Project/ZULApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /home/user/Desktop/Project/ZULApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e58a68e9d197ceab92c9adb4b2796c79/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e58a68e9d197ceab92c9adb4b2796c79/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f2e9a18ca627431fdba6c21ec5ebc812/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f2e9a18ca627431fdba6c21ec5ebc812/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:13:5-20
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:22:5-37:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/9a54b54e6e6e56ff0a096c289b55e1f2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/9a54b54e6e6e56ff0a096c289b55e1f2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/3e2ae632a8df3444918f6c3642096b00/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/3e2ae632a8df3444918f6c3642096b00/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/3bce80ecc9af59897996abaea3c6c984/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/3bce80ecc9af59897996abaea3c6c984/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/0aefe6a7e0bc5d7b143893829686eedf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/0aefe6a7e0bc5d7b143893829686eedf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a589559afb8041869c8d2ed8f1bd355b/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a589559afb8041869c8d2ed8f1bd355b/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/172ef6344376cede31bb51d50d0315ec/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/172ef6344376cede31bb51d50d0315ec/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:networkSecurityConfig
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:18:7-67
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:13:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:19:7-105
+	android:value
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:19:64-103
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:19:18-63
+activity#com.zulapp.MainActivity
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:20:7-30:18
+	android:screenOrientation
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:24:9-45
+	android:label
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:26:9-29:25
+action#android.intent.action.MAIN
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:28:23-70
+meta-data#com.razorpay.ApiKey
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:31:7-34:13
+	android:value
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:33:11-50
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:32:11-45
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:35:7-84
+	android:name
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:35:17-81
+uses-sdk
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-android-sms-listener] /home/user/Desktop/Project/ZULApp/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-sms-listener] /home/user/Desktop/Project/ZULApp/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:RNMail] /home/user/Desktop/Project/ZULApp/node_modules/react-native-mail/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:RNMail] /home/user/Desktop/Project/ZULApp/node_modules/react-native-mail/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /home/user/Desktop/Project/ZULApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /home/user/Desktop/Project/ZULApp/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bottom-action-sheet] /home/user/Desktop/Project/ZULApp/node_modules/react-native-bottom-action-sheet/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bottom-action-sheet] /home/user/Desktop/Project/ZULApp/node_modules/react-native-bottom-action-sheet/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-wheel-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-wheel-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /home/user/Desktop/Project/ZULApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /home/user/Desktop/Project/ZULApp/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-base64] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-base64/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-base64] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-base64/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /home/user/Desktop/Project/ZULApp/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /home/user/Desktop/Project/ZULApp/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/user/Desktop/Project/ZULApp/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/user/Desktop/Project/ZULApp/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/user/Desktop/Project/ZULApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/user/Desktop/Project/ZULApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-touch-id] /home/user/Desktop/Project/ZULApp/node_modules/react-native-touch-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-touch-id] /home/user/Desktop/Project/ZULApp/node_modules/react-native-touch-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/user/Desktop/Project/ZULApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/user/Desktop/Project/ZULApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/b95ac8697b7f68e40c9586addd77c9c0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e58a68e9d197ceab92c9adb4b2796c79/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e58a68e9d197ceab92c9adb4b2796c79/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f2e9a18ca627431fdba6c21ec5ebc812/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f2e9a18ca627431fdba6c21ec5ebc812/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.rubensousa:bottomsheetbuilder:1.6.1] /home/user/.gradle/caches/transforms-1/files-1.1/bottomsheetbuilder-1.6.1.aar/262fd1cf83c36144f91435ca4c73fd91/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rubensousa:bottomsheetbuilder:1.6.1] /home/user/.gradle/caches/transforms-1/files-1.1/bottomsheetbuilder-1.6.1.aar/262fd1cf83c36144f91435ca4c73fd91/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /home/user/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.0.3.aar/423520672c6164d3b0a75b767858ddf2/AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /home/user/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.0.3.aar/423520672c6164d3b0a75b767858ddf2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/9a54b54e6e6e56ff0a096c289b55e1f2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/9a54b54e6e6e56ff0a096c289b55e1f2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/3e2ae632a8df3444918f6c3642096b00/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/3e2ae632a8df3444918f6c3642096b00/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/3bce80ecc9af59897996abaea3c6c984/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/3bce80ecc9af59897996abaea3c6c984/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/bdedf193c14fb81a3b9274c0c5dbf4f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/bdedf193c14fb81a3b9274c0c5dbf4f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/de027b0e404ac6480b9704f8b554081d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/de027b0e404ac6480b9704f8b554081d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/0aefe6a7e0bc5d7b143893829686eedf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/0aefe6a7e0bc5d7b143893829686eedf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/caf480195ce87d488692bccb3dd1cbd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/caf480195ce87d488692bccb3dd1cbd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/31996597dd8a94ace43092975ad813b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/31996597dd8a94ace43092975ad813b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e080a65334b8a429566b019768484dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e080a65334b8a429566b019768484dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/4ee230d8bf4b067a94e7b9e9ff251352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/4ee230d8bf4b067a94e7b9e9ff251352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/3f29a3b32a7ea8e4ac78a808ee62b4ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/3f29a3b32a7ea8e4ac78a808ee62b4ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1d7f40ea96352ae9c25287b689a6237/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1d7f40ea96352ae9c25287b689a6237/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/274376adb2f5e40b869c1ba65a254784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/274376adb2f5e40b869c1ba65a254784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b046fba4e4a122545cc938ed78c6b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b046fba4e4a122545cc938ed78c6b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2063c366e3f81417b5526dc8b68be674/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2063c366e3f81417b5526dc8b68be674/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/12f67c1675a5c6ffb5662281dfbe3489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/12f67c1675a5c6ffb5662281dfbe3489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fac4146b844776d382c601a1d23c8aac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fac4146b844776d382c601a1d23c8aac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e23f754256a13d15612a81dda38e350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e23f754256a13d15612a81dda38e350/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/4ea8aa23335b733287e8c59102eadbe7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/4ea8aa23335b733287e8c59102eadbe7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5ad7bad9dc29f2aee39263c9de92dc2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5ad7bad9dc29f2aee39263c9de92dc2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/160397ab82b3cd5708dacaaaae21d938/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/160397ab82b3cd5708dacaaaae21d938/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d42765571a2e8927932c87caf5c42c26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d42765571a2e8927932c87caf5c42c26/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ae5e02bdae216266eeee0e4727437d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ae5e02bdae216266eeee0e4727437d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1a67cc8591c2c4aab399c4f2bbe9e1da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1a67cc8591c2c4aab399c4f2bbe9e1da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5be0d9a1291fecdb8ef0f6630044dd7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5be0d9a1291fecdb8ef0f6630044dd7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef80b06f0e916050789f0d0802fec25a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef80b06f0e916050789f0d0802fec25a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af121cecb4d9a5fa2d8df546e6bdf1e6/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/af121cecb4d9a5fa2d8df546e6bdf1e6/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a589559afb8041869c8d2ed8f1bd355b/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a589559afb8041869c8d2ed8f1bd355b/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a11a4a94feff800adda909135ddeba7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/a11a4a94feff800adda909135ddeba7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a6475f56971fabeab46881ec096301ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a6475f56971fabeab46881ec096301ab/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
+activity#com.razorpay.CheckoutActivity
+ADDED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:react-native-razorpay] /home/user/Desktop/Project/ZULApp/node_modules/react-native-razorpay/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-57
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d33152bb526c28d169f62a898b3f2264/AndroidManifest.xml:34:19-64
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:22:13-28:29
+data
+ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:25:17-27:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:26:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.5.2] /home/user/.gradle/caches/transforms-1/files-1.1/checkout-1.5.2.aar/c1dfc43d7f695af1601f894f2f3cc4d1/AndroidManifest.xml:27:21-44
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/63f44d9bbc329bfccd2159e39f2c6265/AndroidManifest.xml:34:13-89
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/0c8f40c5ad4f06155274432e1d4edefd/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/070068b69d6f2e076c7497a856e580f3/AndroidManifest.xml:48:25-92
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f3a918f11a56410ed067c89010ac28f9/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/77424011458d5d16c333410aaf8dc682/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/user/Desktop/Project/ZULApp/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/picker_exit.xml",
+        "source": "/home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/packaged_res/debug/anim/picker_exit.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/picker_enter.xml",
+        "source": "/home/user/Desktop/Project/ZULApp/node_modules/react-native-picker/android/build/intermediates/packaged_res/debug/anim/picker_enter.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/sheet_hide.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/res/anim/sheet_hide.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/sheet_show.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/res/anim/sheet_show.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/anim/catalyst_push_up_in.xml"
+    }
+]

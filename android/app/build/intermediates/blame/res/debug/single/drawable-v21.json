@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/btn_flat_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/res/drawable-v21/btn_flat_normal.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e23f754256a13d15612a81dda38e350/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2728e3e18fddf4538ee761b58cfff78b/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d470dd7d581289d0699061c60daef5b9/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-v21/btn_flat_selector.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/aca380d2a3ad1d13fd10ee6583ce8300/res/drawable-v21/btn_flat_selector.xml"
+    }
+]

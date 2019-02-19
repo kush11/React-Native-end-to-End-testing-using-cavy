@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    closeOnRowBeginSwipe={false}
+    closeOnRowPress={true}
+    closeOnScroll={true}
+    directionalDistanceChangeThreshold={2}
+    disableLeftSwipe={false}
+    disableRightSwipe={false}
+    leftOpenValue={0}
+    previewFirstRow={false}
+    recalculateHiddenLayout={false}
+    rightOpenValue={0}
+    style={Object {}}
+    swipeToOpenPercent={50}
+  >
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "alignSelf": "center",
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "black",
+                    "fontFamily": "OpenSans-Regular",
+                    "fontSize": 18,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Enable Touch Id
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": null,
+              "alignSelf": null,
+              "flex": 1,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "flex-end",
+                "alignSelf": "center",
+                "flex": 0.28,
+                "paddingBottom": null,
+                "paddingLeft": null,
+                "paddingRight": null,
+                "paddingTop": null,
+              },
+              Object {
+                "alignContent": "center",
+              },
+            ]
+          }
+        >
+          <View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "justifyContent": "space-evenly",
+                }
+              }
+            >
+              <RCTSwitch
+                disabled={false}
+                onChange={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                onTintColor="#00264a"
+                onValueChange={[Function]}
+                style={
+                  Array [
+                    Object {
+                      "height": 31,
+                      "width": 51,
+                    },
+                    Object {
+                      "transform": Array [
+                        Object {
+                          "scaleX": 1,
+                        },
+                        Object {
+                          "scaleY": 1,
+                        },
+                      ],
+                    },
+                  ]
+                }
+                thumbTintColor="#cccccc"
+                value={false}
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

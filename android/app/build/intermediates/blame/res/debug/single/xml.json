@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/user/Desktop/Project/ZULApp/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3af5c22328cc763d487d6d7c46819b7b/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/user/Desktop/Project/ZULApp/android/app/build/intermediates/res/merged/debug/xml/network_security_config.xml",
+        "source": "/home/user/Desktop/Project/ZULApp/android/app/src/main/res/xml/network_security_config.xml"
+    }
+]

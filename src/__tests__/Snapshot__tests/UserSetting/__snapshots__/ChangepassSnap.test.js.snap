@@ -1,0 +1,863 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Changepasscode snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "height": 1334,
+      "padding": 10,
+      "paddingTop": 60,
+      "position": "absolute",
+      "width": 750,
+    }
+  }
+>
+  <Image
+    resizeMode="cover"
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": 1334,
+          "width": 750,
+        },
+        undefined,
+      ]
+    }
+  />
+  <Modal
+    animationType="fade"
+    hardwareAccelerated={false}
+    onRequestClose={[Function]}
+    transparent={true}
+    visible={false}
+  >
+    <View
+      style={
+        Object {
+          "bottom": 0,
+          "justifyContent": "flex-end",
+          "left": 0,
+          "padding": undefined,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "rgba(0, 0, 0, 0.4)",
+              "bottom": 0,
+              "justifyContent": "center",
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "zIndex": 100,
+            },
+            Object {},
+          ]
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": 50,
+            "position": "relative",
+            "transform": Array [
+              Object {
+                "translateY": 1334,
+              },
+            ],
+            "zIndex": 150,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 171.42857142857142,
+                "left": 283.92857142857144,
+                "padding": 4,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 150,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "borderRadius": 171.42857142857142,
+                  "height": 171.42857142857142,
+                  "justifyContent": "center",
+                  "width": 171.42857142857142,
+                },
+                undefined,
+                Object {
+                  "backgroundColor": "#dc3545",
+                },
+              ]
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "data:image/png;base64,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",
+                }
+              }
+              style={
+                Object {
+                  "height": 32,
+                  "width": 32,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 8,
+              "padding": 32.14285714285714,
+              "paddingTop": 128.57142857142856,
+              "width": 600,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "marginBottom": 32.14285714285714,
+                },
+                Object {},
+              ]
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              numberOfLines={1}
+              style={
+                Array [
+                  Object {
+                    "color": "#444444",
+                    "fontSize": 51.42857142857143,
+                    "fontWeight": "300",
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "fontFamily": "OpenSans-Regular",
+                  },
+                ]
+              }
+            >
+              
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                Object {},
+              ]
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              numberOfLines={2}
+              style={
+                Array [
+                  Object {
+                    "color": "#555555",
+                    "fontSize": 34.285714285714285,
+                    "fontWeight": "300",
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "fontFamily": "OpenSans-Regular",
+                  },
+                ]
+              }
+            >
+              New Passcode and Confirm Passcode not matched!!!
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-end",
+                "marginTop": 32.14285714285714,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              isTVSelectable={true}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "borderRadius": 8,
+                      "justifyContent": "center",
+                      "marginTop": 21.428571428571427,
+                      "padding": 21.428571428571427,
+                    },
+                    Object {
+                      "backgroundColor": "#dc3545",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  ellipsizeMode="tail"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 30,
+                        "fontWeight": "700",
+                      },
+                      Object {
+                        "color": "#FFFFFF",
+                      },
+                      Object {
+                        "fontFamily": "OpenSans-Regular",
+                      },
+                    ]
+                  }
+                >
+                  CLOSE
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </Modal>
+  <RCTScrollView
+    automaticallyAdjustContentInsets={false}
+    contentInset={
+      Object {
+        "bottom": 0,
+      }
+    }
+    enableAutomaticScroll={true}
+    enableOnAndroid={true}
+    enableResetScrollToCoords={true}
+    extraHeight={75}
+    extraScrollHeight={0}
+    getScrollResponder={[Function]}
+    handleOnScroll={[Function]}
+    keyboardDismissMode="interactive"
+    keyboardOpeningTime={250}
+    keyboardShouldPersistTaps="handled"
+    keyboardSpace={0}
+    onScroll={[Function]}
+    resetKeyboardSpace={[Function]}
+    scrollEventThrottle={1}
+    scrollForExtraHeightOnAndroid={[Function]}
+    scrollIntoView={[Function]}
+    scrollToEnd={[Function]}
+    scrollToFocusedInput={[Function]}
+    scrollToPosition={[Function]}
+    showsVerticalScrollIndicator={true}
+    update={[Function]}
+    viewIsInsideTabBar={false}
+  >
+    <View>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "color": "black",
+                "fontFamily": "OpenSans-Regular",
+                "fontSize": 16,
+                "marginLeft": 5,
+                "marginTop": 20,
+              },
+            ]
+          }
+          uppercase={false}
+        >
+          Current Passcode
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "color": "#bbb",
+                "fontFamily": "OpenSans-Regular",
+                "fontSize": 14,
+                "marginLeft": 5,
+              },
+            ]
+          }
+          uppercase={false}
+        >
+          (Leave blank if never set previously)
+        </Text>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "color": "black",
+                "fontFamily": "OpenSans-Regular",
+                "fontSize": 16,
+                "marginLeft": 5,
+                "marginTop": 10,
+              },
+            ]
+          }
+          uppercase={false}
+        >
+          New Passcode
+        </Text>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "color": "black",
+                "fontFamily": "OpenSans-Regular",
+                "fontSize": 16,
+                "marginLeft": 5,
+                "marginTop": 10,
+              },
+            ]
+          }
+          uppercase={false}
+        >
+          Confirm New Passcode
+        </Text>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              keyboardType="numeric"
+              maxLength={1}
+              onChangeText={[Function]}
+              placeholderTextColor="#000"
+              secureTextEntry={true}
+              style={
+                Object {
+                  "borderBottomColor": "#000",
+                  "borderBottomWidth": 1,
+                  "borderRadius": 5,
+                  "color": "#000",
+                  "fontSize": 20,
+                  "marginHorizontal": 5,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 10,
+                  "textAlign": "center",
+                }
+              }
+              underlineColorAndroid="#000"
+              value=""
+            />
+          </View>
+        </View>
+        <View
+          accessible={true}
+          isTVSelectable={true}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#e0e0e0",
+              "borderRadius": 8,
+              "marginLeft": 80,
+              "marginRight": 80,
+              "marginTop": 30,
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingVertical": 12,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#fff",
+                  "fontFamily": "OpenSans-Regular",
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            SUBMIT
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

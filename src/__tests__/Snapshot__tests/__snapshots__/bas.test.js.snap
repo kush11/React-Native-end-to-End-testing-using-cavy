@@ -1,0 +1,1486 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BiologicalAgeScore snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "height": 1334,
+      },
+      Object {
+        "flex": 1,
+      },
+    ]
+  }
+>
+  <View
+    onLayout={[Function]}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#F8F8F8",
+            "borderBottomColor": "#a7a6ab",
+            "borderBottomWidth": 0.5,
+            "elevation": 3,
+            "flexDirection": "row",
+            "height": 64,
+            "justifyContent": "center",
+            "left": 0,
+            "paddingLeft": 6,
+            "paddingRight": 10,
+            "paddingTop": 18,
+            "right": 0,
+            "shadowColor": undefined,
+            "shadowOffset": undefined,
+            "shadowOpacity": undefined,
+            "shadowRadius": undefined,
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "white",
+          },
+        ]
+      }
+    >
+      <View
+        marginLeft={5}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "flex": 1,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          numberOfLines={1}
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 17,
+                "fontWeight": "700",
+                "marginLeft": undefined,
+                "paddingLeft": 4,
+                "paddingTop": 1,
+                "textAlign": "center",
+              },
+              Object {
+                "alignContent": "center",
+                "alignItems": "center",
+                "color": "#144E76",
+                "fontFamily": "OpenSans-SemiBold",
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+           
+          Biological Age Report
+        </Text>
+      </View>
+    </View>
+  </View>
+  <RCTScrollView
+    automaticallyAdjustContentInsets={false}
+    contentContainerStyle={
+      Array [
+        Object {
+          "padding": undefined,
+        },
+        undefined,
+      ]
+    }
+    contentInset={
+      Object {
+        "bottom": 0,
+      }
+    }
+    enableAutomaticScroll={true}
+    enableOnAndroid={false}
+    enableResetScrollToCoords={true}
+    extraHeight={75}
+    extraScrollHeight={0}
+    getScrollResponder={[Function]}
+    handleOnScroll={[Function]}
+    keyboardDismissMode="interactive"
+    keyboardOpeningTime={250}
+    keyboardShouldPersistTaps="handled"
+    keyboardSpace={0}
+    onScroll={[Function]}
+    resetKeyboardSpace={[Function]}
+    resetScrollToCoords={
+      Object {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    scrollEventThrottle={1}
+    scrollForExtraHeightOnAndroid={[Function]}
+    scrollIntoView={[Function]}
+    scrollToEnd={[Function]}
+    scrollToFocusedInput={[Function]}
+    scrollToPosition={[Function]}
+    showsVerticalScrollIndicator={true}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "flex": 1,
+        },
+        Object {
+          "backgroundColor": "#f7f7f7",
+        },
+      ]
+    }
+    update={[Function]}
+    viewIsInsideTabBar={false}
+  >
+    <View>
+      <View>
+        <Modal
+          animationType="fade"
+          hardwareAccelerated={false}
+          onRequestClose={[Function]}
+          transparent={true}
+          visible={false}
+        >
+          <View
+            style={
+              Object {
+                "bottom": 0,
+                "justifyContent": "flex-end",
+                "left": 0,
+                "padding": undefined,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "bottom": 0,
+                    "justifyContent": "center",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "zIndex": 100,
+                  },
+                  Object {},
+                ]
+              }
+            />
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": 50,
+                  "position": "relative",
+                  "transform": Array [
+                    Object {
+                      "translateY": 1334,
+                    },
+                  ],
+                  "zIndex": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFFFFF",
+                      "borderRadius": 171.42857142857142,
+                      "left": 283.92857142857144,
+                      "padding": 4,
+                      "position": "absolute",
+                      "top": 0,
+                      "zIndex": 150,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "borderRadius": 171.42857142857142,
+                        "height": 171.42857142857142,
+                        "justifyContent": "center",
+                        "width": 171.42857142857142,
+                      },
+                      undefined,
+                      Object {
+                        "backgroundColor": "#007bff",
+                      },
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      Object {
+                        "uri": "data:image/png;base64,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",
+                      }
+                    }
+                    style={
+                      Object {
+                        "height": 32,
+                        "width": 32,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#FFFFFF",
+                    "borderRadius": 8,
+                    "padding": 32.14285714285714,
+                    "paddingTop": 128.57142857142856,
+                    "width": 600,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "marginBottom": 32.14285714285714,
+                      },
+                      Object {},
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    numberOfLines={1}
+                    style={
+                      Array [
+                        Object {
+                          "color": "#444444",
+                          "fontSize": 51.42857142857143,
+                          "fontWeight": "300",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "OpenSans-Regular",
+                        },
+                      ]
+                    }
+                  >
+                    Biological Age
+                  </Text>
+                </View>
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                      },
+                      Object {},
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    numberOfLines={2}
+                    style={
+                      Array [
+                        Object {
+                          "color": "#555555",
+                          "fontSize": 34.285714285714285,
+                          "fontWeight": "300",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "OpenSans-Regular",
+                        },
+                      ]
+                    }
+                  >
+                    
+                  </Text>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "justifyContent": "flex-end",
+                      "marginTop": 32.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      ellipsizeMode="tail"
+                      numberOfLines={5}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#555555",
+                            "fontSize": 16,
+                            "fontWeight": "300",
+                            "textAlign": "center",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                    >
+                      Biological age, also called physiological age,is a measure of how well or poorly your body is functioning relative to your actual calendar age.
+                    </Text>
+                  </View>
+                  <View
+                    accessible={true}
+                    isTVSelectable={true}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "borderRadius": 8,
+                            "justifyContent": "center",
+                            "marginTop": 21.428571428571427,
+                            "padding": 21.428571428571427,
+                          },
+                          Object {
+                            "backgroundColor": "#007bff",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "color": "#FFFFFF",
+                              "fontSize": 30,
+                              "fontWeight": "700",
+                            },
+                            Object {
+                              "color": "#FFFFFF",
+                            },
+                            Object {
+                              "fontFamily": "OpenSans-Regular",
+                            },
+                          ]
+                        }
+                      >
+                        CLOSE
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </Modal>
+        <View>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#495057",
+                  "fontFamily": "OpenSans-SemiBold",
+                  "fontSize": 15,
+                  "padding": 10,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            BIOLOGICAL AGE
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "flexDirection": "row",
+              "padding": 10,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 7,
+                "marginLeft": 50,
+                "marginTop": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "borderColor": "transparent",
+                  "shadowColor": "#90a4ae",
+                  "shadowOffset": Object {
+                    "height": 4,
+                    "width": 4,
+                  },
+                  "shadowOpacity": 5,
+                }
+              }
+            >
+              <RNSVGSvgView
+                bbHeight="180"
+                bbWidth="180"
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                    },
+                    Object {
+                      "backgroundColor": "transparent",
+                    },
+                    false,
+                    Object {
+                      "flex": 0,
+                      "height": 180,
+                      "width": 180,
+                    },
+                  ]
+                }
+              >
+                <RNSVGGroup
+                  fill={
+                    Array [
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                    ]
+                  }
+                  fillOpacity={1}
+                  fillRule={1}
+                  font={Object {}}
+                  matrix={
+                    Array [
+                      6.123233995736766e-17,
+                      1,
+                      -1,
+                      6.123233995736766e-17,
+                      180,
+                      0,
+                    ]
+                  }
+                  opacity={1}
+                  originX={90}
+                  originY={90}
+                  propList={Array []}
+                  rotation={90}
+                  scaleX={1}
+                  scaleY={1}
+                  skewX={0}
+                  skewY={0}
+                  stroke={null}
+                  strokeDasharray={null}
+                  strokeDashoffset={null}
+                  strokeLinecap={0}
+                  strokeLinejoin={0}
+                  strokeMiterlimit={4}
+                  strokeOpacity={1}
+                  strokeWidth="1"
+                  x={0}
+                  y={0}
+                >
+                  <RNSVGPath
+                    d="M 89.94816372462643 7.500016284846723 A 82.5 82.5 0 1 0 90 7.5"
+                    fill={
+                      Array [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                      ]
+                    }
+                    fillOpacity={1}
+                    fillRule={1}
+                    matrix={
+                      Array [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                      ]
+                    }
+                    opacity={1}
+                    originX={0}
+                    originY={0}
+                    propList={
+                      Array [
+                        "stroke",
+                        "strokeWidth",
+                        "strokeLinecap",
+                        "fill",
+                      ]
+                    }
+                    rotation={0}
+                    scaleX={1}
+                    scaleY={1}
+                    skewX={0}
+                    skewY={0}
+                    stroke={
+                      Array [
+                        0,
+                        0.8666666666666667,
+                        0.8666666666666667,
+                        0.8666666666666667,
+                        1,
+                      ]
+                    }
+                    strokeDasharray={null}
+                    strokeDashoffset={null}
+                    strokeLinecap={0}
+                    strokeLinejoin={0}
+                    strokeMiterlimit={4}
+                    strokeOpacity={1}
+                    strokeWidth="15"
+                    x={0}
+                    y={0}
+                  />
+                  <RNSVGPath
+                    d="M 90 7.5 A 82.5 82.5 0 0 0 90 7.5"
+                    fill={
+                      Array [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                      ]
+                    }
+                    fillOpacity={1}
+                    fillRule={1}
+                    matrix={
+                      Array [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                      ]
+                    }
+                    opacity={1}
+                    originX={0}
+                    originY={0}
+                    propList={
+                      Array [
+                        "stroke",
+                        "strokeWidth",
+                        "strokeLinecap",
+                        "fill",
+                      ]
+                    }
+                    rotation={0}
+                    scaleX={1}
+                    scaleY={1}
+                    skewX={0}
+                    skewY={0}
+                    stroke={
+                      Array [
+                        0,
+                        0.2549019607843137,
+                        0.6705882352941176,
+                        0.24313725490196078,
+                        1,
+                      ]
+                    }
+                    strokeDasharray={null}
+                    strokeDashoffset={null}
+                    strokeLinecap={0}
+                    strokeLinejoin={0}
+                    strokeMiterlimit={4}
+                    strokeOpacity={1}
+                    strokeWidth="15"
+                    x={0}
+                    y={0}
+                  />
+                </RNSVGGroup>
+              </RNSVGSvgView>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "borderRadius": 75,
+                    "height": 150,
+                    "justifyContent": "center",
+                    "left": 15,
+                    "overflow": "hidden",
+                    "position": "absolute",
+                    "top": 15,
+                    "width": 150,
+                  }
+                }
+              >
+                <View>
+                  <Text
+                    accessibilityHint="Biological Score of taken assessment"
+                    accessibilityLabel="Biological Score"
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#3a3a3a",
+                          "fontFamily": "Montserrat",
+                          "fontSize": 25,
+                          "fontStyle": "normal",
+                          "fontWeight": "400",
+                          "textAlign": "center",
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                  >
+                    36
+                  </Text>
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#3a3a3a",
+                          "fontSize": 25,
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                  />
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              isTVSelectable={true}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": "#2980b9",
+                      "fontSize": 25,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "simple-line-icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View>
+        <Modal
+          animationType="fade"
+          hardwareAccelerated={false}
+          onRequestClose={[Function]}
+          transparent={true}
+          visible={false}
+        >
+          <View
+            style={
+              Object {
+                "bottom": 0,
+                "justifyContent": "flex-end",
+                "left": 0,
+                "padding": undefined,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "bottom": 0,
+                    "justifyContent": "center",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "zIndex": 100,
+                  },
+                  Object {},
+                ]
+              }
+            />
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": 50,
+                  "position": "relative",
+                  "transform": Array [
+                    Object {
+                      "translateY": 1334,
+                    },
+                  ],
+                  "zIndex": 150,
+                }
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFFFFF",
+                      "borderRadius": 171.42857142857142,
+                      "left": 283.92857142857144,
+                      "padding": 4,
+                      "position": "absolute",
+                      "top": 0,
+                      "zIndex": 150,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "borderRadius": 171.42857142857142,
+                        "height": 171.42857142857142,
+                        "justifyContent": "center",
+                        "width": 171.42857142857142,
+                      },
+                      undefined,
+                      Object {
+                        "backgroundColor": "#007bff",
+                      },
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      Object {
+                        "uri": "data:image/png;base64,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",
+                      }
+                    }
+                    style={
+                      Object {
+                        "height": 32,
+                        "width": 32,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#FFFFFF",
+                    "borderRadius": 8,
+                    "padding": 32.14285714285714,
+                    "paddingTop": 128.57142857142856,
+                    "width": 600,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "marginBottom": 32.14285714285714,
+                      },
+                      Object {},
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    numberOfLines={1}
+                    style={
+                      Array [
+                        Object {
+                          "color": "#444444",
+                          "fontSize": 51.42857142857143,
+                          "fontWeight": "300",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "OpenSans-Regular",
+                        },
+                      ]
+                    }
+                  >
+                    Calendar Age
+                  </Text>
+                </View>
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                      },
+                      Object {},
+                    ]
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    numberOfLines={2}
+                    style={
+                      Array [
+                        Object {
+                          "color": "#555555",
+                          "fontSize": 34.285714285714285,
+                          "fontWeight": "300",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "OpenSans-Regular",
+                        },
+                      ]
+                    }
+                  >
+                    
+                  </Text>
+                </View>
+                <View
+                  style={
+                    Object {
+                      "justifyContent": "flex-end",
+                      "marginTop": 32.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                      }
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      ellipsizeMode="tail"
+                      numberOfLines={5}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#000",
+                            "fontFamily": "System",
+                            "fontSize": 16,
+                          },
+                          Object {
+                            "color": "#555555",
+                            "fontSize": 16,
+                            "fontWeight": "300",
+                            "textAlign": "center",
+                          },
+                        ]
+                      }
+                      uppercase={false}
+                    >
+                      Calendar age is the number of years a person has been alive,while biological age refers to how old a person seems
+                    </Text>
+                  </View>
+                  <View
+                    accessible={true}
+                    isTVSelectable={true}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "borderRadius": 8,
+                            "justifyContent": "center",
+                            "marginTop": 21.428571428571427,
+                            "padding": 21.428571428571427,
+                          },
+                          Object {
+                            "backgroundColor": "#007bff",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        ellipsizeMode="tail"
+                        style={
+                          Array [
+                            Object {
+                              "color": "#FFFFFF",
+                              "fontSize": 30,
+                              "fontWeight": "700",
+                            },
+                            Object {
+                              "color": "#FFFFFF",
+                            },
+                            Object {
+                              "fontFamily": "OpenSans-Regular",
+                            },
+                          ]
+                        }
+                      >
+                        CLOSE
+                      </Text>
+                    </View>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </Modal>
+        <View>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#495057",
+                  "fontFamily": "OpenSans-SemiBold",
+                  "fontSize": 15,
+                  "padding": 10,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            CALENDAR AGE
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "flexDirection": "row",
+              "padding": 10,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 7,
+                "marginLeft": 50,
+                "marginTop": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "borderColor": "transparent",
+                  "shadowColor": "#90a4ae",
+                  "shadowOffset": Object {
+                    "height": 4,
+                    "width": 4,
+                  },
+                  "shadowOpacity": 5,
+                }
+              }
+            >
+              <RNSVGSvgView
+                bbHeight="180"
+                bbWidth="180"
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                    },
+                    Object {
+                      "backgroundColor": "transparent",
+                    },
+                    false,
+                    Object {
+                      "flex": 0,
+                      "height": 180,
+                      "width": 180,
+                    },
+                  ]
+                }
+              >
+                <RNSVGGroup
+                  fill={
+                    Array [
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                    ]
+                  }
+                  fillOpacity={1}
+                  fillRule={1}
+                  font={Object {}}
+                  matrix={
+                    Array [
+                      6.123233995736766e-17,
+                      1,
+                      -1,
+                      6.123233995736766e-17,
+                      180,
+                      0,
+                    ]
+                  }
+                  opacity={1}
+                  originX={90}
+                  originY={90}
+                  propList={Array []}
+                  rotation={90}
+                  scaleX={1}
+                  scaleY={1}
+                  skewX={0}
+                  skewY={0}
+                  stroke={null}
+                  strokeDasharray={null}
+                  strokeDashoffset={null}
+                  strokeLinecap={0}
+                  strokeLinejoin={0}
+                  strokeMiterlimit={4}
+                  strokeOpacity={1}
+                  strokeWidth="1"
+                  x={0}
+                  y={0}
+                >
+                  <RNSVGPath
+                    d="M 89.94816372462643 7.500016284846723 A 82.5 82.5 0 1 0 90 7.5"
+                    fill={
+                      Array [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                      ]
+                    }
+                    fillOpacity={1}
+                    fillRule={1}
+                    matrix={
+                      Array [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                      ]
+                    }
+                    opacity={1}
+                    originX={0}
+                    originY={0}
+                    propList={
+                      Array [
+                        "stroke",
+                        "strokeWidth",
+                        "strokeLinecap",
+                        "fill",
+                      ]
+                    }
+                    rotation={0}
+                    scaleX={1}
+                    scaleY={1}
+                    skewX={0}
+                    skewY={0}
+                    stroke={
+                      Array [
+                        0,
+                        0.8666666666666667,
+                        0.8666666666666667,
+                        0.8666666666666667,
+                        1,
+                      ]
+                    }
+                    strokeDasharray={null}
+                    strokeDashoffset={null}
+                    strokeLinecap={0}
+                    strokeLinejoin={0}
+                    strokeMiterlimit={4}
+                    strokeOpacity={1}
+                    strokeWidth="15"
+                    x={0}
+                    y={0}
+                  />
+                  <RNSVGPath
+                    d="M 90 7.5 A 82.5 82.5 0 0 0 90 7.5"
+                    fill={
+                      Array [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                      ]
+                    }
+                    fillOpacity={1}
+                    fillRule={1}
+                    matrix={
+                      Array [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                      ]
+                    }
+                    opacity={1}
+                    originX={0}
+                    originY={0}
+                    propList={
+                      Array [
+                        "stroke",
+                        "strokeWidth",
+                        "strokeLinecap",
+                        "fill",
+                      ]
+                    }
+                    rotation={0}
+                    scaleX={1}
+                    scaleY={1}
+                    skewX={0}
+                    skewY={0}
+                    stroke={
+                      Array [
+                        0,
+                        0.2549019607843137,
+                        0.6705882352941176,
+                        0.24313725490196078,
+                        1,
+                      ]
+                    }
+                    strokeDasharray={null}
+                    strokeDashoffset={null}
+                    strokeLinecap={0}
+                    strokeLinejoin={0}
+                    strokeMiterlimit={4}
+                    strokeOpacity={1}
+                    strokeWidth="15"
+                    x={0}
+                    y={0}
+                  />
+                </RNSVGGroup>
+              </RNSVGSvgView>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "borderRadius": 75,
+                    "height": 150,
+                    "justifyContent": "center",
+                    "left": 15,
+                    "overflow": "hidden",
+                    "position": "absolute",
+                    "top": 15,
+                    "width": 150,
+                  }
+                }
+              >
+                <View>
+                  <Text
+                    accessibilityHint="Biological Score of taken assessment"
+                    accessibilityLabel="Biological Score"
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#3a3a3a",
+                          "fontFamily": "Montserrat",
+                          "fontSize": 25,
+                          "fontStyle": "normal",
+                          "fontWeight": "400",
+                          "textAlign": "center",
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                  >
+                    27
+                  </Text>
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    ellipsizeMode="tail"
+                    style={
+                      Array [
+                        Object {
+                          "color": "#000",
+                          "fontFamily": "System",
+                          "fontSize": 16,
+                        },
+                        Object {
+                          "color": "#3a3a3a",
+                          "fontSize": 25,
+                        },
+                      ]
+                    }
+                    uppercase={false}
+                  />
+                </View>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              isTVSelectable={true}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": "#2980b9",
+                      "fontSize": 25,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "simple-line-icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "padding": 10,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          isTVSelectable={true}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#2980b9",
+              "borderRadius": 8,
+              "marginHorizontal": 10,
+              "marginLeft": 70,
+              "marginRight": 70,
+              "marginTop": 10,
+              "opacity": 1,
+              "paddingVertical": 12,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#fff",
+                  "fontFamily": "OpenSans-Regular",
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            WELLNESS HOME
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
